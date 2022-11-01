@@ -8,4 +8,5 @@
 
 Мы запускаем регистрацию на бетатестирование. Пожалуйста, напишите свои контакты на адрес [NeuroStartUp@nsu.io](mailto:NeuroStartUp@nsu.io).
 
-   ![Скрин кода](Ckrin.jpg)
+Скрин кода об отмене коммита. Revert комита e3768e7
+   ![Скрин кода](https://sun9-86.userapi.com/impg/a-t_Kasy6DhhUNJQbD4IoeSTax6_PY491z3Wtw/4BR3sr1JvQs.jpg?size=562x285&quality=95&sign=3efad7cd588dc5b2f18660050dacb324&type=album)
